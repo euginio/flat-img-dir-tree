@@ -24,3 +24,11 @@ files.forEach(element => {
   })
   
 });
+
+/**
+ * pasos
+ * hacer el export de vitales2020_test y la instanciación de las variables para tener acceso a node y el package
+ * $ sudo vim index.js (cambiar las carpetas destino y origen)
+ * $ mkdir /repositorio1/data-apps/vitales/local-images/carpetaDestinoQueSepusoEnElIndex
+ * $ node node_modules/flat-img-dir-tree/index.js
+ */
