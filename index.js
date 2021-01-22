@@ -32,3 +32,9 @@ files.forEach(element => {
  * $ mkdir /repositorio1/data-apps/vitales/local-images/carpetaDestinoQueSepusoEnElIndex
  * $ node node_modules/flat-img-dir-tree/index.js
  */
+
+ /**
+  * comandos útiles
+  * find carpetaOrigenAnidada/ -type f | wc -l
+  * ls carpetaDestinoFlatten/ | wc -l
+  */
